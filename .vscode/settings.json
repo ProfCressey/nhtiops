@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/9619ee4b-147b-47eb-a32b-2201a268b27f/resourceGroups/opsengine/providers/Microsoft.Web/sites/nhtiops",
+    "appService.deploySubpath": ""
+}

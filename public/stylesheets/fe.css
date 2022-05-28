@@ -1,0 +1,17 @@
+#google_chart {
+    min-height: 600px;
+    margin: 2%;
+}
+
+#google_chart p {
+    text-align: center;
+    padding-top: 25%;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.status p {
+    font-size: small;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
